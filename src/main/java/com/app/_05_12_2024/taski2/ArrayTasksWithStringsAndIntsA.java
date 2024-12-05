@@ -16,6 +16,8 @@ public class ArrayTasksWithStringsAndIntsA {
     public static void task3() {
         String[] array = {"apple", "banana", "cherry"};
         String target = "banana";
+        String s = "kjhjgh";
+
     }
 
     // 4. Подсчитать количество строк, содержащих заданный символ.
