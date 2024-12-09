@@ -16,8 +16,8 @@ public class Employee {
     public Employee() {
     }
 
-    public String convertSalaryToString(double salary) {
-        return "{ " + salary + " }";
+    public String convertSalaryToString(double salary){
+        return  "{ " + salary + " }";
     }
 
     @Override

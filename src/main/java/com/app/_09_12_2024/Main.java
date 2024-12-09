@@ -1,6 +1,7 @@
 package com.app._09_12_2024;
 
 public class Main {
+
     public static void main(String[] args) {
         Employee emp = new Employee();
         Employee emp1 = new Employee();
@@ -17,5 +18,8 @@ public class Main {
         emp1.salary = 1983.34;
 
         System.out.println(emp1.convertSalaryToString(emp1.salary));
+
+
     }
+
 }
