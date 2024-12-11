@@ -2,6 +2,8 @@ package _05_12_2024;
 
 import _09_12_2024.Employee;
 
+import java.util.Arrays;
+
 public class ArrayTasksWithStringsAndInts {
 
     private static Employee Arrays;
@@ -96,7 +98,7 @@ public class ArrayTasksWithStringsAndInts {
                 k++;
             }
         }
-        System.out.println("arrayUniqueLetters = " + Arrays.toString(arrayUniqueLetters));
+        System.out.println("arrayUniqueLetters = " + java.util.Arrays.toString(arrayUniqueLetters));
     }
 
 
