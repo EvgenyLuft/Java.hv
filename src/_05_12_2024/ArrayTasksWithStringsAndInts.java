@@ -1,12 +1,10 @@
 package _05_12_2024;
 
-import _09_12_2024.Employee;
-
-import java.util.Arrays;
+import _09_12_2024.Employee1;
 
 public class ArrayTasksWithStringsAndInts {
 
-    private static Employee Arrays;
+    private static Employee1 Arrays;
 
     // 21. Генерация нового массива из четных чисел.
     public static void task21() {
